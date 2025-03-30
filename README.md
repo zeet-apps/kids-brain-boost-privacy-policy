@@ -1,48 +1,69 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Privacy Policy – Kids Brain Boost</title>
-</head>
-<body>
-  <h1>Privacy Policy</h1>
-  <p><strong>Last updated:</strong> March 30, 2025</p>
+# Privacy Policy
 
-  <p>This Privacy Policy describes our policies on the collection, use, and protection of your information when you use the Kids Brain Boost app.</p>
+**Last updated:** March 30, 2025
 
-  <p>We collect minimal personal data and store it <strong>locally on your device</strong>. By using the app, you agree to the terms outlined in this policy.</p>
+This Privacy Policy describes our policies on the collection, use, and protection of your information when you use the **Kids Brain Boost** app.
 
-  <h2>Information We Collect</h2>
-  <p>The app may ask for your first and last name to personalize the learning experience. This information is:</p>
-  <ul>
-    <li>Entered manually by the user</li>
-    <li>Stored only on the device</li>
-    <li>Never transmitted or shared externally</li>
-  </ul>
+We collect minimal personal data and store it **locally on your device**. By using the app, you agree to the terms outlined in this policy.
 
-  <h2>Use of Data</h2>
-  <p>We use the entered name only to personalize the experience (e.g., displaying the user's name during quizzes). No analytics, advertising, or external services collect or access this data.</p>
+---
 
-  <h2>Children's Privacy</h2>
-  <p>Our app is designed for children ages <strong>5 and up</strong>. We do not knowingly collect any sensitive personal data or data that requires parental consent under laws like COPPA.</p>
-  <p>The only information requested is the child’s first and last name, which stays on the device and is not shared or stored externally. If you are a parent or guardian and believe your child has submitted personal data inappropriately, please contact us and we will remove it.</p>
+## Information We Collect
 
-  <h2>Data Sharing and Transfers</h2>
-  <p><strong>No personal information</strong> is shared with third parties or transferred to external servers. All user data remains on the device.</p>
+The app may ask for your **first and last name** to personalize the learning experience. This information is:
 
-  <h2>Security</h2>
-  <p>We take reasonable steps to protect the limited data we collect. However, no method of electronic storage is 100% secure. As we store data only on-device, no data is accessible remotely.</p>
+- Entered manually by the user  
+- Stored only on the device  
+- Never transmitted or shared externally
 
-  <h2>Third-Party Links</h2>
-  <p>The app does not contain external links to third-party websites or services.</p>
+---
 
-  <h2>Changes to This Privacy Policy</h2>
-  <p>We may update this Privacy Policy to reflect changes in our practices. If we make changes, we will update the "Last updated" date above.</p>
+## Use of Data
 
-  <h2>Contact Us</h2>
-  <p>If you have any questions about this Privacy Policy, feel free to reach out:</p>
-  <ul>
-    <li>Email: <a href="mailto:zeetforfun@gmail.com">zeetforfun@gmail.com</a></li>
-  </ul>
-</body>
-</html>
+We use the entered name only to personalize the experience (e.g., displaying the user's name during quizzes).  
+**No analytics, advertising, or external services** collect or access this data.
+
+---
+
+## Children's Privacy
+
+Our app is designed for children ages **5 and up**. We do not knowingly collect any sensitive personal data or data that requires parental consent under laws like **COPPA**.
+
+The only information requested is the child’s name, which stays on the device and is not shared externally.  
+If you are a parent or guardian and believe your child has submitted personal data inappropriately, please contact us and we will remove it.
+
+---
+
+## Data Sharing and Transfers
+
+We do **not share** or transmit any personal information outside of the app.  
+All data remains securely stored on the user's device.
+
+---
+
+## Security
+
+We take reasonable steps to protect the limited data we collect.  
+However, no method of electronic storage is 100% secure.  
+Since all data is stored locally, **no user data is accessible remotely**.
+
+---
+
+## Third-Party Links
+
+The app does **not contain** links to external websites or services.
+
+---
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy to reflect changes in our practices.  
+If we make changes, we will update the "**Last updated**" date above.
+
+---
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, you can contact us:
+
+📧 **Email:** [zeetforfun@gmail.com](mailto:zeetforfun@gmail.com)
